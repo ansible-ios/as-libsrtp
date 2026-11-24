@@ -1,3 +1,12 @@
+# as-libsrtp
+
+Ansible Messenger — защита медиапотоков по SRTP.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [cisco/libsrtp](https://github.com/cisco/libsrtp), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 [![CMake Build](https://github.com/cisco/libsrtp/actions/workflows/cmake.yml/badge.svg)](https://github.com/cisco/libsrtp/actions/workflows/cmake.yml)
 [![CMake Release](https://github.com/cisco/libsrtp/actions/workflows/cmake_release.yml/badge.svg)](https://github.com/cisco/libsrtp/actions/workflows/cmake_release.yml)
 [![Autotools Build](https://github.com/cisco/libsrtp/actions/workflows/autotools.yml/badge.svg)](https://github.com/cisco/libsrtp/actions/workflows/autotools.yml)
